@@ -50,7 +50,7 @@ python3 synthesize.py --text "YOUR DESIRED TEXT" --restore_step 900000 --mode si
 ```
 
 <audio controls>
-  <source src="audio.wav" type="audio/wav">
+  <source src="audio.wav" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
