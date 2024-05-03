@@ -50,9 +50,9 @@ python3 synthesize.py --text "YOUR DESIRED TEXT" --restore_step 900000 --mode si
 ```
 
 <div align="center">
-<a><img width="720" src="./High-Quality-Voice-Cloning/synthesized.png" alt="soft"></a>
+<a><img width="720" src="High-Quality-Voice-Cloning/synthesized.png" alt="soft"></a>
 </div>
 
 <div align="center">
-<a><img width="720" src="./High-Quality-Voice-Cloning/Loss_total_loss.svg" alt="soft"></a>
+<a><img width="720" src="High-Quality-Voice-Cloning/Loss_total_loss.svg" alt="soft"></a>
 </div>
