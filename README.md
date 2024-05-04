@@ -49,10 +49,8 @@ For vocoder,download pretrained from https://drive.google.com/drive/folders/1GCu
 python3 synthesize.py --text "YOUR DESIRED TEXT" --restore_step 900000 --mode single -p config/{Your voice Dataset}/preprocess.yaml -m config/{Your voice Dataset}/model.yaml -t config/{Your voice Dataset}/train.yaml
 ```
 
-<audio controls>
-  <source src="[audio.wav](https://github.com/SiddantaK/High-Quality-Voice-Cloning/blob/main/audio.wav)" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+https://github.com/SiddantaK/High-Quality-Voice-Cloning/assets/101938746/18f762ac-a29d-44c0-86f8-bd69b0ee002d
+
 
 <div align="center">
 <a><img width="720" src="synthesized.png" alt="soft"></a>
