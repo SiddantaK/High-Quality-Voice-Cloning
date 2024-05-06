@@ -4,6 +4,10 @@
 
 This is a Custom Voice Cloning Model
 
+<div align="center">
+<a><img width="720" src="synthesized.png" alt="soft"></a>
+</div>
+
 ## Dependencies
 
 You can install the Python dependencies with
@@ -85,9 +89,7 @@ https://github.com/SiddantaK/High-Quality-Voice-Cloning/assets/101938746/18f762a
 Here you can listen the output of our cloned voice along with its ground truth audio.
 https://drive.google.com/drive/folders/1FTqapXz9Z1kqtOPNUKaHX5GVVw0e7_8y?usp=sharing
 
-<div align="center">
-<a><img width="720" src="synthesized.png" alt="soft"></a>
-</div>
+
 
 <div align="center">
 <a><img width="720" src="Loss_total_loss.svg" alt="soft"></a>
