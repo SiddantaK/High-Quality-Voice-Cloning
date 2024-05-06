@@ -20,6 +20,35 @@ Here are the config files used to train the single/multi-speaker TTS models.
 
 Setup Your model.yaml, train.yaml and preprocess.yml before everything inside config
 
+# Datset Splits
+<table>
+    <caption>Custom Dataset Split for Training, Validation, and Testing to fine-tune both Custom Models.</caption>
+    <thead>
+        <tr>
+            <th>Dataset Split</th>
+            <th>Audio Clips (.wav)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Total Dataset</td>
+            <td>500</td>
+        </tr>
+        <tr>
+            <td>Training Dataset</td>
+            <td>350 (70%)</td>
+        </tr>
+        <tr>
+            <td>Validation Dataset</td>
+            <td>50 (10%)</td>
+        </tr>
+        <tr>
+            <td>Test Dataset</td>
+            <td>100 (20%)</td>
+        </tr>
+    </tbody>
+</table>
+
 # Preprocessing
 
 ```
