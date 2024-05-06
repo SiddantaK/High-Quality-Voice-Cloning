@@ -51,6 +51,10 @@ python3 synthesize.py --text "YOUR DESIRED TEXT" --restore_step 900000 --mode si
 
 https://github.com/SiddantaK/High-Quality-Voice-Cloning/assets/101938746/18f762ac-a29d-44c0-86f8-bd69b0ee002d
 
+# Cloned Outputs
+
+Here you can listen the output of our cloned voice along with its ground truth audio.
+https://drive.google.com/drive/folders/1FTqapXz9Z1kqtOPNUKaHX5GVVw0e7_8y?usp=sharing
 
 <div align="center">
 <a><img width="720" src="synthesized.png" alt="soft"></a>
