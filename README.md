@@ -25,6 +25,7 @@ Here are the config files used to train the single/multi-speaker TTS models.
 Setup Your model.yaml, train.yaml and preprocess.yml before everything inside config
 
 # Datset Splits
+
 <table>
     <caption>Custom Dataset Split for Training, Validation, and Testing to fine-tune both Custom Models.</caption>
     <thead>
@@ -88,8 +89,6 @@ https://github.com/SiddantaK/High-Quality-Voice-Cloning/assets/101938746/18f762a
 
 Here you can listen the output of our cloned voice along with its ground truth audio.
 https://drive.google.com/drive/folders/1FTqapXz9Z1kqtOPNUKaHX5GVVw0e7_8y?usp=sharing
-
-
 
 <div align="center">
 <a><img width="720" src="Loss_total_loss.svg" alt="soft"></a>
