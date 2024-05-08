@@ -85,6 +85,50 @@ python3 synthesize.py --text "YOUR DESIRED TEXT" --restore_step 900000 --mode si
 
 https://github.com/SiddantaK/High-Quality-Voice-Cloning/assets/101938746/18f762ac-a29d-44c0-86f8-bd69b0ee002d
 
+# Results
+
+<div class='section table-responsive-sm'>
+    <table class="table">
+    <h2>Evaluation Metrics  for Different Datasets Split</h2>
+    <thead>
+        <tr>
+            <th>Splits</th>
+            <th>PESQ(nb)</th>
+            <th>PESQ(wb)</th>
+            <th>SDR</th>
+            <th>SNR</th>
+            <th>STOI</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Training</td>
+            <td>2.780</td>
+            <td>1.919</td>
+            <td>2.637</td>
+            <td>5.179</td>
+            <td>0.740</td>
+        </tr>
+        <tr>
+            <td>Validation</td>
+            <td>1.972</td>
+            <td>1.446</td>
+            <td>2.527</td>
+            <td>5.137</td>
+            <td>0.297</td>
+        </tr>
+        <tr>
+            <td>Testing</td>
+            <td>1.855</td>
+            <td>1.551</td>
+            <td>2.662</td>
+            <td>6.329</td>
+            <td>0.335</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
 # Cloned Outputs
 
 Here you can listen the output of our cloned voice along with its ground truth audio.
