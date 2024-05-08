@@ -141,3 +141,9 @@ https://drive.google.com/drive/folders/1FTqapXz9Z1kqtOPNUKaHX5GVVw0e7_8y?usp=sha
 <div align="center">
 <a><img width="720" src="Loss_total_loss.svg" alt="soft"></a>
 </div>
+
+# References
+
+<a href="https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner" target="_blank">Montreal Forced Aligner</a>
+<a href="https://github.com/ming024/FastSpeech2" target="_blank">Fast Speech 2 </a>
+<a href="https://github.com/keonlee9420/Daft-Exprt" target="_blank"> Daft-Exprt: Robust Prosody Transfer Across Speakers for Expressive Speech Synthesis</a>
