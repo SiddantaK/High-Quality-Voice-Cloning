@@ -146,4 +146,6 @@ https://drive.google.com/drive/folders/1FTqapXz9Z1kqtOPNUKaHX5GVVw0e7_8y?usp=sha
 
 <a href="https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner" target="_blank">Montreal Forced Aligner</a> <br/>
 <a href="https://github.com/ming024/FastSpeech2" target="_blank">Fast Speech 2 </a> <br/>
+<a href="https://github.com/keonlee9420/WaveGrad2" target="_blank">keonlee9420's WaveGrad2</a> for GaussianUpsampling<br/>
+<a href="https://arxiv.org/abs/1709.07871" target="_blank">FiLM: Visual Reasoning with a General Conditioning Layer</a><br/>
 <a href="https://github.com/keonlee9420/Daft-Exprt" target="_blank"> Daft-Exprt: Robust Prosody Transfer Across Speakers for Expressive Speech Synthesis</a><br/>
