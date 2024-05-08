@@ -1,11 +1,11 @@
 # High-Quality-Voice-Cloning
 
-# Custom Model
+# VC (Custom)
 
-This is a Custom Voice Cloning Model
+This is a Custom Voice Cloning Model. We incorporate speaker variance information beyond duration (pitch, energy) to enrich the model’s understanding of speech variations. These features are used during training and inference, improving the one-to-many mapping problem in TTS.
 
 <div align="center">
-<a><img width="720" src="synthesized.png" alt="soft"></a>
+<a><img width="720" src="final-custom-model-architecture.png" alt="soft"></a>
 </div>
 
 ## Dependencies
@@ -89,6 +89,10 @@ https://github.com/SiddantaK/High-Quality-Voice-Cloning/assets/101938746/18f762a
 
 Here you can listen the output of our cloned voice along with its ground truth audio.
 https://drive.google.com/drive/folders/1FTqapXz9Z1kqtOPNUKaHX5GVVw0e7_8y?usp=sharing
+
+<div align="center">
+<a><img width="720" src="synthesized.png" alt="soft"></a>
+</div>
 
 <div align="center">
 <a><img width="720" src="Loss_total_loss.svg" alt="soft"></a>
