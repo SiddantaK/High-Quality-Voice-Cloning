@@ -1,8 +1,8 @@
 # High-Quality-Voice-Cloning
 
-# VC (Custom)
+# Sabda2Baachan
 
-This is a Custom Voice Cloning Model. We incorporate speaker variance information beyond duration (pitch, energy) to enrich the model’s understanding of speech variations. These features are used during training and inference, improving the one-to-many mapping problem in TTS.
+This work proposes a novel neural architecture Sabda2Baachan for text-to-speech synthesis capable of producing high-quality speech with natural prosody and speaker characteris- tics. The model employs a multi-stream approach, where distinct components predict various low-level prosodic features, including energy, pitch, and duration. The proposed model demonstrated superior performance compared to several state-of-the-art models, achieving remarkable naturalness, in- telligibility, and speaker similarity in the synthesized speech.
 
 <div align="center">
 <a><img width="720" src="final-custom-model-architecture.png" alt="soft"></a>
@@ -133,6 +133,10 @@ https://github.com/SiddantaK/High-Quality-Voice-Cloning/assets/101938746/18f762a
 
 Here you can listen the output of our cloned voice along with its ground truth audio.
 https://drive.google.com/drive/folders/1FTqapXz9Z1kqtOPNUKaHX5GVVw0e7_8y?usp=sharing
+
+# Download model weight here
+
+https://drive.google.com/drive/folders/1at6L_zuqVHkL3gZeZhjF9rVYe-idgEVa?usp=sharing
 
 <div align="center">
 <a><img width="720" src="synthesized.png" alt="soft"></a>
