@@ -1,5 +1,3 @@
-# High-Quality-Voice-Cloning
-
 # Sabda2Baachan
 
 This work proposes a novel neural architecture Sabda2Baachan for text-to-speech synthesis capable of producing high-quality speech with natural prosody and speaker characteris- tics. The model employs a multi-stream approach, where distinct components predict various low-level prosodic features, including energy, pitch, and duration. The proposed model demonstrated superior performance compared to several state-of-the-art models, achieving remarkable naturalness, in- telligibility, and speaker similarity in the synthesized speech.
@@ -103,27 +101,27 @@ https://github.com/SiddantaK/High-Quality-Voice-Cloning/assets/101938746/18f762a
     <tbody>
         <tr>
             <td>Training</td>
-            <td>2.780</td>
-            <td>1.919</td>
-            <td>2.637</td>
-            <td>5.179</td>
-            <td>0.740</td>
+            <td>3.024</td>
+            <td>2.823</td>
+            <td>5.637</td>
+            <td>6.179</td>
+            <td>0.823</td>
         </tr>
         <tr>
             <td>Validation</td>
-            <td>1.972</td>
-            <td>1.446</td>
-            <td>2.527</td>
+            <td>2.535</td>
+            <td>2.331</td>
+            <td>5.527</td>
             <td>5.137</td>
-            <td>0.297</td>
+            <td>0.797</td>
         </tr>
         <tr>
             <td>Testing</td>
-            <td>1.855</td>
-            <td>1.551</td>
-            <td>2.662</td>
-            <td>6.329</td>
-            <td>0.335</td>
+            <td>2.277</td>
+            <td>2.004</td>
+            <td>5.662</td>
+            <td>5.029</td>
+            <td>0.635</td>
         </tr>
     </tbody>
 </table>
