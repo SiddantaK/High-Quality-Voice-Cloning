@@ -2,6 +2,8 @@
 
 This work proposes a novel neural architecture Sabda2Baachan for text-to-speech synthesis capable of producing high-quality speech with natural prosody and speaker characteris- tics. The model employs a multi-stream approach, where distinct components predict various low-level prosodic features, including energy, pitch, and duration. The proposed model demonstrated superior performance compared to several state-of-the-art models, achieving remarkable naturalness, in- telligibility, and speaker similarity in the synthesized speech.
 
+<a href="https://youshanzhang.github.io/AiAI/High-Quality-Voice-Cloning/" target="_blank">See the github website</a>
+
 <div align="center">
 <a><img width="720" src="final-custom-model-architecture.png" alt="soft"></a>
 </div>
@@ -143,6 +145,16 @@ https://drive.google.com/drive/folders/1at6L_zuqVHkL3gZeZhjF9rVYe-idgEVa?usp=sha
 <div align="center">
 <a><img width="720" src="Loss_total_loss.svg" alt="soft"></a>
 </div>
+
+# For Evaluation
+
+You can use metrics.py inside the "Sabda2Baachan" folder for evaluation of the generated audios with actual one
+
+```
+stoi,nb_pesq_score,wb_pesq_score,snr,sdr = metrics(wav_reconstructed,wav_predict)
+```
+
+From here you can obtain ShortTimeObjectiveIntelligibility, PerceptualEvaluationSpeechQuality(narrow band), PerceptualEvaluationSpeechQuality(Wide band), SignalNoiseRatio, SignalDistortionRatio
 
 # References
 
